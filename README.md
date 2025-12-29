@@ -14,7 +14,7 @@ My goal is to grow as a Software Engineer by continuously learning and deliverin
 - Built with a production-ready mindset
 
 🔗 **Live Portfolio:**  
-https://sumanth-lachannagari.github.io/portfolio/
+https://sumanth-lachannagari.github.io/portifolio/
 
 ## 🛠️ Skills
 - Python
